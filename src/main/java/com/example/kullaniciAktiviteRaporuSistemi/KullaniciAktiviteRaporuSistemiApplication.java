@@ -1,0 +1,14 @@
+package com.example.kullaniciAktiviteRaporuSistemi;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+
+@SpringBootApplication
+public class KullaniciAktiviteRaporuSistemiApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(KullaniciAktiviteRaporuSistemiApplication.class, args);
+	}
+
+}
